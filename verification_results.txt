@@ -1,0 +1,34 @@
+[
+  {
+    "query": "نکاح کے لیے قانونی عمر کیا ہے؟",
+    "category": "Family Laws",
+    "sources": [
+      "Child Marriage Restraint Act, 1929"
+    ],
+    "reply": "**Category (زمرہ)**: Family Laws\n\n**Title**: شادی کی قانونی عمر (چائلڈ میرج ریسٹرینٹ ایکٹ)\n\n**1. Direct Answer**:\nپاکستان میں شادی کی قانونی عمر چائلڈ میرج ریسٹرینٹ ایکٹ کے تحت طے ہوتی ہے۔\n\n**2. Relevant Pakistani Law**:\nچائلڈ میرج ریسٹرینٹ ایکٹ کے تحت پاکستان میں شادی کی کم از کم عمر درج ذیل ہے:\n- **صوبہ سندھ**: لڑکے اور لڑکی دونوں کے لیے شادی کی کم از کم قانونی عمر 18 سال ہے۔\n- **دیگر صوبے اور وفاق (پنجاب، اسلام آباد، خیبر پختونخوا، اور بلوچستان)**: لڑکوں کے لیے کم از کم عمر 18 سال اور لڑکیوں کے لیے 16 سال ہے۔\nکم عمری کی شادی کروانا یا اس میں سہولت کاری فراہم کرنا ایک قابلِ سزا جرم ہے جس کی سزا جرمانہ اور 2 سال تک قید ہو سکتی ہے۔ (Source: Child Marriage Restraint Act, 1929)\n\n**3. Practical Next Steps**:\n1. شادی رجسٹر کرنے سے پہلے فریقین کے قومی شناختی کارڈ (CNIC) یا بی فارم (B-Form) سے عمر کی تصدیق کریں۔\n2. نکاح خواں کو دولہا اور دلہن کی تاریخ پیدائش کا ثبوت فراہم کریں۔\n3. اگر زبردستی یا قانون کے خلاف کم عمری کی شادی ہو رہی ہو تو قریبی تھانے یا فیملی کورٹ سے رجوع کریں۔\n\n**4. Required Documents**:\nفریقین کے شناختی کارڈ (CNIC)، یونین کونسل سے جاری کردہ کمپیوٹرائزڈ پیدائشی سرٹیفکیٹ یا بی فارم (B-Form)۔\n\n**5. Important Notes**:\nرول 7 کے تحت یہ نظام تعلیمی مقاصد کے لیے معلومات فراہم کرتا ہے اور پیشہ ورانہ قانونی مشورے کا متبادل نہیں ہے۔"
+  },
+  {
+    "query": "nikah ki qanooni umar kya hai?",
+    "category": "Family Laws",
+    "sources": [
+      "Child Marriage Restraint Act, 1929"
+    ],
+    "reply": "**Category (زمرہ)**: Family Laws\n\n**Title**: Shadi Ki Qanooni Umar (Child Marriage Restraint Act)\n\n**1. Direct Answer**:\nPakistan mein shadi ki qanooni umar Child Marriage Restraint Act ke tehat tay hoti hai.\n\n**2. Relevant Pakistani Law**:\nChild Marriage Restraint Act ke mutabiq shadi ki kam az kam legal age darj zail hai:\n- **Province of Sindh**: Larke aur larki dono ke liye shadi ki kam az kam legal age 18 saal hai.\n- **Punjab, Islamabad, KPK, aur Balochistan**: Larkon ke liye legal age 18 saal aur larkiyon ke liye 16 saal hai.\nNabaligh (child) ki shadi karwana ya is mein madad karna qanoonan jurm hai jis ki saza 2 saal tak qaid aur jurmana ho sakti hai. (Source: Child Marriage Restraint Act, 1929)\n\n**3. Practical Next Steps**:\n1. Shadi se pehle dulha aur dulhan ke CNIC ya B-Form se age verify karein.\n2. Nikah khwan ko date of birth ka verified proof (Birth Certificate) dein.\n3. Agar ghair-qanooni child marriage ho rahi ho to police station ya Family Court se contact karein.\n\n**4. Required Documents**:\nParties ke CNIC, Union Council se computerized birth certificate ya B-Form.\n\n**5. Important Notes**:\nRule 7 ke tehat yeh system informational purposes ke liye hai aur professional legal advice ka badal nahi hai."
+  },
+  {
+    "query": "legal age of marriage",
+    "category": "Family Laws",
+    "sources": [
+      "Child Marriage Restraint Act, 1929"
+    ],
+    "reply": "**Category (زمرہ)**: Family Laws\n\n**Title**: Legal Age of Marriage (Child Marriage Restraint Act)\n\n**1. Direct Answer**:\nBased on your query regarding **Legal Age of Marriage (Child Marriage Restraint Act)** under **Family Laws** in Pakistan: Your family law matter is governed by the Muslim Family Laws Ordinance 1961 and the Guardians and Wards Act 1890. You have the right to seek recourse through the Family Courts or local Union Council.\n\n**2. Relevant Pakistani Law**:\nThe legal age of marriage in Pakistan is governed by the Child Marriage Restraint Act. In Sindh, the minimum marriageable age is 18 years for both males and females. In Punjab, Islamabad, KPK, and Balochistan, the minimum age is 18 for males and 16 for females. Marrying or facilitating the marriage of a child below the legal age is a criminal offense punishable by fines and imprisonment of up to 2 years. (Source: Child Marriage Restraint Act, 1929 - Child Marriage Restraint Act, 1929)\n\n**3. Practical Next Steps**:\n1. Gather supporting evidence (Nikahnama, CNIC of parties, children B-Form).\n2. Consult a family lawyer to draft a suit for maintenance, khula, or custody.\n3. File the suit in the local Family Court of the district where the wife resides.\n\n**4. Required Documents**:\nNikahnama (Marriage Contract), CNIC of parties, Children's B-Form, list of dowry articles, proof of husband's income.\n\n**5. Important Notes**:\nUnder Rule 7, this system provides legal information for educational purposes only. It does not constitute professional legal advice, court representation, or any legal guarantees."
+  },
+  {
+    "query": "طلاق دینے کا قانونی طریقہ کیا ہے؟",
+    "category": "Family Laws",
+    "sources": [
+      "Muslim Family Laws Ordinance, 1961"
+    ],
+    "reply": "**زمرہ (زمرہ): خاندانی قوانین\n\n**عنوان**: شوہر کی طرف سے طلاق (طلاق نوٹس اور سرٹیفکیٹ)\n\n**1۔ سیدھا جواب**:\nپاکستان میں **خاندانی قوانین** کے تحت **شوہر کی طرف سے طلاق (طلاق نوٹس اور سرٹیفکیٹ)** سے متعلق آپ کے استفسار کی بنیاد پر: آپ کے خاندانی قانون کا معاملہ مسلم فیملی لاز آرڈیننس 1961 اور گارڈین اینڈ وارڈز ایکٹ 1890 کے تحت چلتا ہے۔ آپ کو فیملی کورٹس یا مقامی یونین کونسل کے ذریعے سہارا لینے کا حق حاصل ہے۔\n\n**2۔ متعلقہ پاکستانی قانون**:\nMFLO 1961 کے سیکشن 7 کے تحت، جو شوہر اپنی بیوی کو طلاق دینا چاہتا ہے، اسے طلاق دینے کے بعد، مقامی یونین کونسل کے چیئرمین کو ایک تحریری نوٹس بھیجنا چاہیے اور بیوی کو ایک کاپی فراہم کرنا چاہیے۔ طلاق معطل ہے اور نوٹس کی ترسیل کے 90 دن تک مؤثر نہیں ہوتا، جس کے دوران یونین کونسل مصالحت کی کوشش کے لیے ایک ثالثی کونسل تشکیل دیتی ہے۔ اگر یہ ناکام ہوجاتا ہے، تو طلاق کی تاثیر کا سرٹیفکیٹ جاری کیا جاتا ہے۔ (ماخذ: مسلم فیملی لاز آرڈیننس، 1961 کا سیکشن 7 - مسلم فیملی لاز آرڈیننس، 1961)\n\n**3۔ عملی اگلے اقدامات**:\n1. معاون ثبوت جمع کریں (نکاحنامہ، فریقین کا شناختی کارڈ، بچوں کا بی فارم)۔\n2. دیکھ بھال، خلع، یا تحویل کے لیے مقدمہ کا مسودہ تیار کرنے کے لیے خاندانی وکیل سے مشورہ کریں۔\n3. اس ضلع کی مقامی فیملی کورٹ میں مقدمہ دائر کریں جہاں بیوی رہتی ہے۔\n\n**4۔ مطلوبہ دستاویزات**:\nنکاح نامہ (شادی کا معاہدہ)، فریقین کا شناختی کارڈ، بچوں کا بی فارم، جہیز کے مضامین کی فہرست، شوہر کی آمدنی کا ثبوت۔\n\n**5۔ اہم نوٹس**:\nاصول 7 کے تحت، یہ نظام صرف تعلیمی مقاصد کے لیے قانونی معلومات فراہم کرتا ہے۔ یہ پیشہ ورانہ قانونی مشورہ، عدالت کی نمائندگی، یا کوئی قانونی ضمانتیں تشکیل نہیں دیتا۔"
+  }
+]

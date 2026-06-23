@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Travel Consent & International Relocation of Minors",
+    "statute": "Section 25 of the Guardians and Wards Act, 1890",
+    "source": "Guardians and Wards Act, 1890",
+    "answer": "A parent holding physical custody cannot take minor children abroad or relocate them permanently without the written consent of the other parent (the natural guardian) or permission from the Guardian Court. Doing so constitutes removal from lawful custody. If a parent attempts to take children abroad illegally, the other parent can apply to place the children's names on the Exit Control List (ECL)."
+  },
+  {
+    "title": "Child Maintenance Obligations (Child Support)",
+    "statute": "Section 9 of the Muslim Family Laws Ordinance, 1961",
+    "source": "Muslim Family Laws Ordinance, 1961",
+    "answer": "Under Pakistani law, a father is unconditionally bound to maintain his minor children, providing for their education, clothing, food, and shelter, regardless of child custody. A father must maintain sons until they reach the age of majority (18 years) and daughters until they get married. If the father refuses, a child maintenance suit can be filed in the Family Court, and unpaid maintenance can be recovered through court warrants or property attachment."
+  },
+  {
+    "title": "Women's Inheritance Rights under Shariah",
+    "statute": "Section 498-A of the Pakistan Penal Code, 1860",
+    "source": "Pakistan Penal Code (PPC), 1860",
+    "answer": "Women in Pakistan are entitled to their legal inheritance shares under Shariah law. Denying a woman her inheritance by force, coercion, or deceit is a severe criminal offense under Section 498-A of the Pakistan Penal Code (PPC), carrying a punishment of 5 to 10 years imprisonment and a fine of up to Rs. 1 million. Aggrieved women can file suits in civil courts to recover their inherited property or register complaints. Under Shariah, daughters inherit property from their deceased father or mother, and widows inherit from their deceased husbands."
+  },
+  {
+    "title": "Iddat Period Rules and Rights",
+    "statute": "Section 7 of the Muslim Family Laws Ordinance, 1961",
+    "source": "Muslim Family Laws Ordinance, 1961",
+    "answer": "Iddat is the mandatory waiting period a Muslim woman must observe after divorce or her husband's death. For divorce, the iddat period is 90 days (or 3 menstruation cycles) from the date the divorce notice is received by the Union Council, or until delivery if pregnant. For the death of the husband, the iddat is 4 months and 10 days. During iddat, the husband must provide maintenance and housing."
+  },
+  {
+    "title": "Parental Visitation Rights & Schedules",
+    "statute": "Section 12 of the Guardians and Wards Act, 1890",
+    "source": "Guardians and Wards Act, 1890",
+    "answer": "The non-custodial parent (usually the father) has a legal right to meet his children. He can file a petition for visitation rights under Section 12 of the Guardians and Wards Act 1890. The Guardian Court sets a detailed visitation schedule (e.g. meetings in court premises, weekend home stays, or vacation custody). Violations of visitation schedules can result in court fines or modification of custody."
+  },
+  {
+    "title": "Nikah Nama Contract Clauses & column rights",
+    "statute": "Section 5 of the Muslim Family Laws Ordinance, 1961",
+    "source": "Muslim Family Laws Ordinance, 1961",
+    "answer": "A Nikahnama is a legally binding marriage contract in Islam. Critical columns include Column 18 (delegated right of divorce/Talaq-e-Tafweez to the wife), Column 19 (restrictions on the husband's right to contract a second marriage), and Column 20 (dower details—prompt dower payable immediately, deferred dower payable upon divorce or death). Striking out or leaving these columns blank restricts the wife's legal rights. It is highly advised that these columns are negotiated and filled out clearly during the Nikah ceremony."
+  },
+  {
+    "title": "Child Custody - Father's Rights & Natural Guardianship",
+    "statute": "Section 17 of the Guardians and Wards Act, 1890",
+    "source": "Guardians and Wards Act, 1890",
+    "answer": "Under Pakistani law, the father is the natural legal guardian (Vilayah) of minor children, while the mother holds physical custody (Hizanat). The father is responsible for education, healthcare, and religion. A father can claim physical custody of a boy after 7 years of age and a girl after puberty by filing a petition in the Guardian Court, which evaluates if the transfer serves the child's welfare."
+  },
+  {
+    "title": "Spousal Maintenance Claims (Wife's Nafqah)",
+    "statute": "Section 9 of the Muslim Family Laws Ordinance, 1961",
+    "source": "Muslim Family Laws Ordinance, 1961",
+    "answer": "Under Section 9 of the Muslim Family Laws Ordinance 1961, a husband is legally bound to provide adequate spousal maintenance (Nafqah), including food, clothing, shelter, and medical care, to his wife. If he fails to do so, the wife can apply to the Union Council Chairman to constitute an Arbitration Council to issue a maintenance certificate. Alternatively, she can file a recovery suit in the Family Court. Past maintenance is recoverable for up to three years prior to filing."
+  },
+  {
+    "title": "Child Custody (Hizanat) - Mother's Primary Rights",
+    "statute": "Section 17 of the Guardians and Wards Act, 1890",
+    "source": "Guardians and Wards Act, 1890",
+    "answer": "Child custody (Hizanat) in Pakistan is decided based on the welfare and best interest of the minor. Under Islamic jurisprudence, the mother has the primary right of physical custody of minor boys up to 7 years of age and minor girls up to puberty. However, she can lose this right if she is proven unfit due to neglect/abuse, or if she contracts a second marriage with a stranger (ghair-mahram)."
+  },
+  {
+    "title": "Legal Age of Marriage (Child Marriage Restraint Act)",
+    "statute": "Child Marriage Restraint Act, 1929",
+    "source": "Child Marriage Restraint Act, 1929",
+    "answer": "The legal age of marriage in Pakistan is governed by the Child Marriage Restraint Act. In Sindh, the minimum marriageable age is 18 years for both males and females. In Punjab, Islamabad, KPK, and Balochistan, the minimum age is 18 for males and 16 for females. Marrying or facilitating the marriage of a child below the legal age is a criminal offense punishable by fines and imprisonment of up to 2 years."
+  },
+  {
+    "title": "Polygamy & Second Marriage Permission",
+    "statute": "Section 6 of the Muslim Family Laws Ordinance, 1961",
+    "source": "Muslim Family Laws Ordinance, 1961",
+    "answer": "Under Section 6 of the MFLO 1961, a husband must obtain prior written permission from the local Union Council's Arbitration Council to contract a second marriage during the subsistence of an existing marriage. He must show the consent of the existing wife and justify the second marriage. Conducting a second marriage without permission is a criminal offense, making the husband liable to pay the entire dower amount immediately, and exposing him to up to one year of imprisonment and a fine of up to Rs. 500,000."
+  },
+  {
+    "title": "Mandatory Marriage Registration under MFLO",
+    "statute": "Section 5 of the Muslim Family Laws Ordinance, 1961",
+    "source": "Muslim Family Laws Ordinance, 1961",
+    "answer": "Under Section 5 of the Muslim Family Laws Ordinance 1961, every marriage contracted under Muslim Law must be registered with the local Nikah Registrar. A Nikahnama is the official marriage contract document, and failure to register is a punishable offense carrying a fine of up to Rs. 100,000, imprisonment of up to 3 months, or both. Although an unregistered marriage remains religiously valid, it is extremely difficult to prove in court for claiming legal rights like dower, maintenance, and inheritance."
+  },
+  {
+    "title": "Divorce by Husband (Talaq Notice & Certificate)",
+    "statute": "Section 7 of the Muslim Family Laws Ordinance, 1961",
+    "source": "Muslim Family Laws Ordinance, 1961",
+    "answer": "Under Section 7 of the MFLO 1961, a husband who wishes to divorce his wife must, after pronouncing Talaq, send a written notice to the local Union Council Chairman and supply a copy to the wife. The Talaq is suspended and does not become effective until 90 days from the notice delivery, during which the Union Council forms an Arbitration Council to attempt reconciliation. If it fails, a divorce effectiveness certificate is issued."
+  },
+  {
+    "title": "Divorce by Wife (Court Khula & Dower Waiver)",
+    "statute": "Section 8 of the Muslim Family Laws Ordinance, 1961",
+    "source": "Muslim Family Laws Ordinance, 1961",
+    "answer": "Under Section 8 of the MFLO 1961, a wife wanting to dissolve her marriage without a delegated right of divorce must file a suit for Khula in the Family Court. The court will issue summons, hold pre-trial reconciliation, and if it fails, decree the Khula. As consideration for Khula, the wife is usually required to waive her deferred dower (Haq Mehr) or return a portion of the prompt dower she received."
+  },
+  {
+    "title": "Court Marriage Procedure & Consent",
+    "statute": "Child Marriage Restraint Act & Specific Provisions of Shariah",
+    "source": "Specific Provisions of Shariah",
+    "answer": "Court marriage in Pakistan is conducted through a civil process where an adult male and female (18 years or older) sign a Nikah contract in the presence of a Nikah Registrar and magistrate. The female must sign an affidavit of free will stating she is marrying without coercion. To protect themselves from false abduction FIRs filed by the bride's family, the couple should file a petition in the High Court seeking police protection."
+  }
+]
