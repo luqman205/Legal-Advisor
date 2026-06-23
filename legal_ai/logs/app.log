@@ -1,0 +1,101 @@
+[2026-05-19 23:52:41] [INFO] [LegalAI] ==============================================
+[2026-05-19 23:52:41] [INFO] [LegalAI] Starting Enterprise Pakistani Legal AI Trainer
+[2026-05-19 23:52:41] [INFO] [LegalAI] ==============================================
+[2026-05-19 23:52:41] [INFO] [LegalAI] Dataset JSON not found. Running programmatic generation pipeline...
+[2026-05-19 23:52:41] [INFO] [LegalAI] Initializing enterprise legal dataset compiler...
+[2026-05-19 23:52:41] [INFO] [LegalAI] Synthesizing 10050 balanced Q/A entries across 8 categories...
+[2026-05-19 23:52:41] [INFO] [LegalAI] Deduplicated dataset: 3130 valid entries.
+[2026-05-19 23:52:41] [INFO] [LegalAI] Saved dataset JSON to /Users/mac/Documents/legal advisor/legal-ai/dataset/legal_dataset.json
+[2026-05-19 23:52:41] [INFO] [LegalAI] Saved dataset CSV to /Users/mac/Documents/legal advisor/legal-ai/dataset/legal_dataset.csv
+[2026-05-19 23:52:41] [INFO] [LegalAI] Loaded 3130 legal records for vector indexing.
+[2026-05-19 23:52:41] [INFO] [LegalAI] Encoding legal chunks into high-dimensional vector space...
+[2026-05-19 23:52:41] [INFO] [LegalAI] Generated embeddings shape: (3130, 43)
+[2026-05-19 23:52:41] [INFO] [LegalAI] FAISS is missing. Initializing standard NumPy flat vector index...
+[2026-05-19 23:52:41] [INFO] [LegalAI] NumPy vector index built successfully with 3130 vectors.
+[2026-05-19 23:52:42] [INFO] [LegalAI] Saved vector database files to /Users/mac/Documents/legal advisor/legal-ai/vector_db/faiss_index.bin
+[2026-05-19 23:52:42] [INFO] [LegalAI] ==============================================
+[2026-05-19 23:52:42] [INFO] [LegalAI] Pakistani Legal AI Trainer Completed Successfully!
+[2026-05-19 23:52:42] [INFO] [LegalAI] ==============================================
+[2026-05-19 23:53:11] [INFO] [LegalAI] ==============================================
+[2026-05-19 23:53:11] [INFO] [LegalAI] Starting Enterprise Pakistani Legal AI Trainer
+[2026-05-19 23:53:11] [INFO] [LegalAI] ==============================================
+[2026-05-19 23:53:11] [INFO] [LegalAI] Dataset JSON not found. Running programmatic generation pipeline...
+[2026-05-19 23:53:11] [INFO] [LegalAI] Initializing enterprise legal dataset compiler...
+[2026-05-19 23:53:11] [INFO] [LegalAI] Synthesizing 10200 balanced Q/A entries across 8 categories...
+[2026-05-19 23:53:11] [INFO] [LegalAI] Deduplicated dataset: 11000 valid entries.
+[2026-05-19 23:53:11] [INFO] [LegalAI] Saved dataset JSON to /Users/mac/Documents/legal advisor/legal-ai/dataset/legal_dataset.json
+[2026-05-19 23:53:11] [INFO] [LegalAI] Saved dataset CSV to /Users/mac/Documents/legal advisor/legal-ai/dataset/legal_dataset.csv
+[2026-05-19 23:53:11] [INFO] [LegalAI] Loaded 11000 legal records for vector indexing.
+[2026-05-19 23:53:11] [INFO] [LegalAI] Encoding legal chunks into high-dimensional vector space...
+[2026-05-19 23:53:12] [INFO] [LegalAI] Generated embeddings shape: (11000, 43)
+[2026-05-19 23:53:12] [INFO] [LegalAI] FAISS is missing. Initializing standard NumPy flat vector index...
+[2026-05-19 23:53:12] [INFO] [LegalAI] NumPy vector index built successfully with 11000 vectors.
+[2026-05-19 23:53:12] [INFO] [LegalAI] Saved vector database files to /Users/mac/Documents/legal advisor/legal-ai/vector_db/faiss_index.bin
+[2026-05-19 23:53:12] [INFO] [LegalAI] ==============================================
+[2026-05-19 23:53:12] [INFO] [LegalAI] Pakistani Legal AI Trainer Completed Successfully!
+[2026-05-19 23:53:12] [INFO] [LegalAI] ==============================================
+[2026-05-19 23:54:03] [INFO] [LegalAI] Loaded vector store with 11000 records.
+[2026-05-19 23:54:03] [INFO] [LegalAI] Initiating RAG pipeline for query: 'What is the penalty for online harassment under PECA?'
+[2026-05-19 23:54:03] [INFO] [LegalAI] Classified query category: Cyber Crime with score 2
+[2026-05-19 23:54:03] [INFO] [LegalAI] Searching nearest neighbors inside FAISS index...
+[2026-05-19 23:54:03] [INFO] [LegalAI] Deep learning frameworks (torch/transformers) are missing. Running lightweight RAG compiler.
+[2026-05-19 23:56:57] [INFO] [LegalAI] Loaded vector store with 11000 records.
+[2026-05-20 00:10:57] [INFO] [LegalAI] Loaded vector store with 11000 records.
+[2026-05-20 00:12:05] [INFO] [LegalAI] Initiating RAG pipeline for query: 'What constitutes workplace harassment under Pakistani law?'
+[2026-05-20 00:12:05] [INFO] [LegalAI] Classified query category: Harassment with score 3
+[2026-05-20 00:12:05] [INFO] [LegalAI] Searching nearest neighbors inside FAISS index...
+[2026-05-20 00:12:05] [INFO] [LegalAI] Deep learning frameworks (torch/transformers) are missing. Running lightweight RAG compiler.
+[2026-05-20 00:13:08] [INFO] [LegalAI] Initiating RAG pipeline for query: 'what about family right??'
+[2026-05-20 00:13:08] [INFO] [LegalAI] Searching nearest neighbors inside FAISS index...
+[2026-05-20 00:13:08] [INFO] [LegalAI] Deep learning frameworks (torch/transformers) are missing. Running lightweight RAG compiler.
+[2026-05-20 00:20:11] [INFO] [LegalAI] Initiating RAG pipeline for query: ' what about family laws'
+[2026-05-20 00:20:11] [INFO] [LegalAI] Searching nearest neighbors inside FAISS index...
+[2026-05-20 00:20:11] [INFO] [LegalAI] Deep learning frameworks (torch/transformers) are missing. Running lightweight RAG compiler.
+[2026-05-21 22:40:43] [INFO] [LegalAI] Loaded vector store with 11000 records.
+[2026-05-21 22:42:16] [INFO] [LegalAI] Loaded vector store with 11000 records.
+[2026-05-21 22:42:36] [INFO] [LegalAI] Initiating RAG pipeline for query: 'What are my rights as a tenant in Pakistan?'
+[2026-05-21 22:42:36] [INFO] [LegalAI] Classified query category: Tenant/Landlord Issues with score 2
+[2026-05-21 22:42:36] [INFO] [LegalAI] Searching nearest neighbors inside FAISS index...
+[2026-05-21 22:42:36] [INFO] [LegalAI] Deep learning frameworks (torch/transformers) are missing. Running lightweight RAG compiler.
+[2026-05-21 23:57:44] [INFO] [LegalAI] Loaded vector store with 11000 records.
+[2026-05-22 00:01:36] [INFO] [LegalAI] Initiating RAG pipeline for query: ' Achcha Agar family laws ke bare mein kya'
+[2026-05-22 00:01:36] [INFO] [LegalAI] Searching nearest neighbors inside FAISS index...
+[2026-05-22 00:01:36] [INFO] [LegalAI] Deep learning frameworks (torch/transformers) are missing. Running lightweight RAG compiler.
+[2026-05-22 00:01:51] [INFO] [LegalAI] Initiating RAG pipeline for query: ' aur Agar Nikaah ke bare mein Maine Kuchh puchna Ho'
+[2026-05-22 00:01:51] [INFO] [LegalAI] Searching nearest neighbors inside FAISS index...
+[2026-05-22 00:01:51] [INFO] [LegalAI] Deep learning frameworks (torch/transformers) are missing. Running lightweight RAG compiler.
+[2026-05-22 00:06:31] [INFO] [LegalAI] Loaded vector store with 11000 records.
+[2026-05-22 00:07:04] [INFO] [LegalAI] Initiating RAG pipeline for query: 'What is the legal process of Khula under Pakistani law?'
+[2026-05-22 00:07:04] [INFO] [LegalAI] Detected query language: roman_urdu
+[2026-05-22 00:07:06] [INFO] [LegalAI] Translated query 'What is the legal process of Khula under Pakistani law?' to English: 'What is the legal process of Khula under Pakistani law?'
+[2026-05-22 00:07:06] [INFO] [LegalAI] Classified query category: Family Law with score 2
+[2026-05-22 00:07:06] [INFO] [LegalAI] Searching nearest neighbors inside FAISS index...
+[2026-05-22 00:07:06] [INFO] [LegalAI] Deep learning frameworks (torch/transformers) are missing. Running lightweight RAG compiler.
+[2026-05-22 00:07:06] [INFO] [LegalAI] Translating final response into Roman Urdu...
+[2026-05-22 00:07:34] [INFO] [LegalAI] Loaded vector store with 11000 records.
+[2026-05-22 00:07:50] [INFO] [LegalAI] Initiating RAG pipeline for query: 'What is the legal process of Khula under Pakistani law?'
+[2026-05-22 00:07:50] [INFO] [LegalAI] Language detection scores - Roman Urdu matches: 1, English matches: 8
+[2026-05-22 00:07:50] [INFO] [LegalAI] Detected query language: english
+[2026-05-22 00:07:50] [INFO] [LegalAI] Classified query category: Family Law with score 2
+[2026-05-22 00:07:50] [INFO] [LegalAI] Searching nearest neighbors inside FAISS index...
+[2026-05-22 00:07:50] [INFO] [LegalAI] Deep learning frameworks (torch/transformers) are missing. Running lightweight RAG compiler.
+[2026-05-22 00:07:55] [INFO] [LegalAI] Initiating RAG pipeline for query: 'Achcha family laws ke bare mein kya aur Agar Nikaah ke bare mein Maine Kuchh puchna Ho'
+[2026-05-22 00:07:55] [INFO] [LegalAI] Language detection scores - Roman Urdu matches: 13, English matches: 0
+[2026-05-22 00:07:55] [INFO] [LegalAI] Detected query language: roman_urdu
+[2026-05-22 00:07:56] [INFO] [LegalAI] Translated query 'Achcha family laws ke bare mein kya aur Agar Nikaah ke bare mein Maine Kuchh puchna Ho' to English: 'Achcha family laws ke bare mein kya aur Agar Nikaah ke bare mein Maine Kuchh puchna Ho'
+[2026-05-22 00:07:56] [INFO] [LegalAI] Searching nearest neighbors inside FAISS index...
+[2026-05-22 00:07:56] [INFO] [LegalAI] Deep learning frameworks (torch/transformers) are missing. Running lightweight RAG compiler.
+[2026-05-22 00:07:56] [INFO] [LegalAI] Translating final response into Roman Urdu...
+[2026-05-22 00:08:06] [INFO] [LegalAI] Initiating RAG pipeline for query: 'خلع کا طریقہ کیا ہے؟'
+[2026-05-22 00:08:06] [INFO] [LegalAI] Detected query language: urdu_script
+[2026-05-22 00:08:07] [INFO] [LegalAI] Translated query 'خلع کا طریقہ کیا ہے؟' to English: 'What is the method of dislocation?'
+[2026-05-22 00:08:07] [INFO] [LegalAI] Searching nearest neighbors inside FAISS index...
+[2026-05-22 00:08:07] [INFO] [LegalAI] Deep learning frameworks (torch/transformers) are missing. Running lightweight RAG compiler.
+[2026-05-22 00:08:07] [INFO] [LegalAI] Translating final response into Urdu script...
+[2026-05-22 00:08:56] [INFO] [LegalAI] Initiating RAG pipeline for query: ' Mujhe Nikaah ke bare mein puchna hai'
+[2026-05-22 00:08:56] [INFO] [LegalAI] Language detection scores - Roman Urdu matches: 7, English matches: 0
+[2026-05-22 00:08:56] [INFO] [LegalAI] Detected query language: roman_urdu
+[2026-05-22 00:08:57] [INFO] [LegalAI] Translated query ' Mujhe Nikaah ke bare mein puchna hai' to English: 'Mujhe Nikaah ke bare mein puchna hai'
+[2026-05-22 00:08:57] [INFO] [LegalAI] Searching nearest neighbors inside FAISS index...
+[2026-05-22 00:08:57] [INFO] [LegalAI] Deep learning frameworks (torch/transformers) are missing. Running lightweight RAG compiler.
+[2026-05-22 00:08:57] [INFO] [LegalAI] Translating final response into Roman Urdu...
